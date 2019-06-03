@@ -1,0 +1,6 @@
+print("Enter no. 1")
+x=input()
+print("Enter no. 2")
+y=input()
+z=int(x)+int(y)
+print("Addition = "+str(z))

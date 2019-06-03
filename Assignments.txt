@@ -1,0 +1,43 @@
+1. WAP to calculate area of a rectangle
+
+2. WAP to calculate area of a square
+
+3. WAP to calculate Gross Salary of an employee.
+Input Basic Salary.
+Where; HRA is 10% of Basic Salary and DA is 10% of HRA. 
+Print Basic Salary, HRA, and DA too.
+Example: Basic Salary: 10000
+	 HRA = 10% of Basic Salary = 1000
+	 DA = 10% of HRA = 100
+	 GS = BS + HRA + DA
+
+4. WAP to input Loan amout, rate of interest and loan period (in months). Calculate EMI and total amount to be paid.
+Simple Interest = ptr/100
+
+5. WAP to get the volume of a sphere
+   Formula : (4/3) Pi r**3
+
+6. WAP to create an List and copy that into another List.
+
+7. WAP which accepts the user's first and last name and print them in reverse order with a space between them.
+
+8. WAP that takes a list of words and returns the length of each one. Also print the longest one with length and index number.
+
+9. WAP that takes input from the user and print back in upper and lower cases.
+
+10. WAP to accept a filename from the user and print the extension of that.
+    Ex. Input : Abc.py     Output : py
+
+11. WAP which accepts a sequence of comma-separated numbers from user and generate a list with those numbers.
+
+12. WAP that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
+
+13. WAP to remove the string from the list.
+
+14. WAP to remove existing indentation from string
+
+15. WAP to reverse words in a string
+
+16. WAP to print a set of characters from a string
+
+17. WAP to convert a string in a list
