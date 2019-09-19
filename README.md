@@ -7,6 +7,10 @@ Contact : atul.palandurkar@gmail.com
 
 Blog : http://aatul.me
 
+Follow me on:
+Facebook : https://facebook.com/aatulpalandurkar
+Instagram : https://instagram.com/aatulpalandurkar
+
 Regards.
 
 Aatul Palandurkar
