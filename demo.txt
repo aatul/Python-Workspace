@@ -1,0 +1,3 @@
+Hello! Welcome to demo.txt
+Let us try and understand File Handling in Python
+Keep rocking!Now the data is appended in file!
