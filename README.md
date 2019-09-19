@@ -13,4 +13,8 @@ Instagram : https://instagram.com/aatulpalandurkar
 
 Regards.
 
-Aatul Palandurkar
+**Aatul Palandurkar**
+International Trainer and Author
+12 Awards till date
+14+ years of experience
+Trained more than 500000 candidates globally
