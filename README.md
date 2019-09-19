@@ -10,6 +10,7 @@ Blog : http://aatul.me
 Follow me on:
 - Facebook : https://facebook.com/aatulpalandurkar
 - Instagram : https://instagram.com/aatulpalandurkar
+- YouTube : https://www.youtube.com/user/AtulPalandurkar?sub_confirmation=1
 
 Regards.
 
