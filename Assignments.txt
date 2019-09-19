@@ -1,0 +1,158 @@
+1. WAP to calculate area of a rectangle
+
+2. WAP to calculate area of a square
+
+3. WAP to calculate Gross Salary of an employee.
+Input Basic Salary.
+Where; HRA is 10% of Basic Salary and DA is 10% of HRA. 
+Print Basic Salary, HRA, and DA too.
+Example: Basic Salary: 10000
+	 HRA = 10% of Basic Salary = 1000
+	 DA = 10% of HRA = 100
+	 GS = BS + HRA + DA
+
+4. WAP to input Loan amout, rate of interest and loan period (in months). Calculate EMI and total amount to be paid.
+Simple Interest = ptr/100
+
+5. WAP to get the volume of a sphere
+   Formula : (4/3) Pi r**3
+
+6. WAP to create an List and copy that into another List.
+
+7. WAP which accepts the user's first and last name and print them in reverse order with a space between them.
+
+8. WAP that takes a list of words and returns the length of each one. Also print the longest one with length and index number.
+
+9. WAP that takes input from the user and print back in upper and lower cases.
+
+10. WAP to accept a filename from the user and print the extension of that.
+    Ex. Input : Abc.py     Output : py
+
+11. WAP which accepts a sequence of comma-separated numbers from user and generate a list with those numbers.
+
+12. WAP that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
+
+13. WAP to remove the string from the list.
+
+14. WAP to remove existing indentation from string
+
+15. WAP to reverse words in a string
+
+16. WAP to print a set of characters from a string
+
+17. WAP to convert a string in a list
+
+18. WAP to print table of 7
+
+19. WAP to input a string and print every character of string along with its number of occurance in string
+
+20. WAP to print fibonacci numbers up to 100
+
+21. WAP to print if given number is even or odd up to 10
+
+22. WAP to print if given number is palindrome or not
+
+23. WAP to print number divisible by 3, 5 and both
+
+24. WAP to input a string and print characters and numbers separated
+
+25. WAP to print if the given character is vovel or consonent
+
+26. WAP to accept a string from the user and reverse it
+
+27. WAP to print prime numbers up to 100.
+
+28. WAP to print if given number is Armstrong or not
+
+29. WAP to print 0-9 in words
+
+30. WAP to print given nnumber in words.
+Ex. 4321 : Four Thousands Three Hundred Twenty one
+
+31. Basic Calculator, perform Four basic operations.
+Create a menu driven program, allow user to select which operation to be performed.
+
+32. WAP to print table of 5 using While loop
+
+33. WAP to check whether given year is Leap year or not?
+
+34. WAP to print Prime numbers up to 100 using While loop
+
+35. WAP to check whether given number is Armstrong or not, use While loop
+
+36. WAP to print even and odd numbers up to 10, use While loop
+
+37. WAP to find the factorial of given number
+
+38. WAP to check if the number is Peterson number?
+Peterson number : A number is said to be a Peterson number if the sum of factorials of each digit of the number is equal to the number itself.
+Example : 145 = 5! + 4! + 1!
+              = 120 + 24 +1
+              = 145
+
+39. WAP to find the following using Switch case:
+    1) Factorial
+    2) Armstrong number
+    3) Peterson number
+
+40. WAP to find the following using Switch case:
+    1) Area of rectangle
+    2) Area of square
+    3) Area of circle
+
+41. WAP to find the following using Switch case:
+    1) Farenhit
+    2) Celcius
+    3) Kelvin
+
+42. WAP to create a function and find largest of three numbers
+
+43. WAP to create a function and find the sum of all the elements of a list
+
+44. WAP to create functions and find LCM & HCM
+
+45. WAP to create a function and find the second largest number from a list
+
+46. WAP to create a function and print even and odd numbers separatly
+
+47. WAP to create a function and sort the list in ascending and descending order
+
+48. WAP to create different functions to find the area of circle, rectangle and square
+
+49. WAP to create a function and accept the comma separated string. Print the words without comma after sorting them alphabetically
+
+50. WAP to create a function and find given string is palindrome or not
+
+51. WAP to create a class to convert an integer to a roman numeral
+
+52. WAP to create a class to reverse a string
+
+53. Write a Python class which has two methods getString() and printString(). getString() accept a string from the user and printString() print the string in upper case
+
+54. Write a Python class named Rectangle to find area of rectangle
+
+55. Write a Python class named Circle to find area of circle
+
+56. WAP to solve the Fibonacci sequence using recursion
+
+57. WAP to calculate the harmonic sum of n-1. Go to the editor
+Note: The harmonic sum is the sum of reciprocals of the positive integers. 
+Example : 1+(1/2)+(1/3)+(1/4)+(1/4)+(1/n)
+
+58. WAP to create a function and print number of Capital and small characters from a string.
+
+59. WAP to create and read file with numbers. Print the count of even and odd numbers from the file.
+
+60. WAP to copy a file
+
+61. WAP to read a file called "Data.txt". If file contains "true" print "Login Successful" and if file contains "false" print "Login failed" otherwise print "Wrong input"
+
+62. WAP and create a module to compute area of circle
+
+63. WAP and create a module to compute area of rectangle
+
+64. WAP and create a module to compute monthly installment. Input loan amount, rate of interest and loan term.
+
+# Project
+65. WAP and create a module to convert any 4 digit number into words.
+Example : 4321 = Four Thousands Three Hundred Twenty One
